@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Becube</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">El correo es inváido</string>
+    <string name="error_incorrect_password">Usuario o contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_disabled">No se encuentra habilitado el gps</string>
+    <string name="check_button_sesion">Guardar sesión</string>
+</resources>
