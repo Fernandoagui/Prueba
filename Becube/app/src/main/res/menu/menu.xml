@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_item"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_add"
+        android:title="Agregar">
+    </item>
+    <item
+        android:id="@+id/settings_item"
+        app:showAsAction="never"
+        android:title="Cerrar sesión">
+    </item>
+</menu>
